@@ -71,6 +71,7 @@ function verificarChute() {
     console.log(numeroSecreto);
     console.log(chute);
     console.log(chute==numeroSecreto);
+    console.log('git deu certo');
 
 
 
